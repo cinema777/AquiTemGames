@@ -1,4 +1,7 @@
 <h1 align=center> Projeto - AquiTemGames</h1>
+<div align=center>
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/cinema777/AquiTemGamesGit">
+</div>
 
 <p>Projeto em React Native, com aplicação de diversos conceitos como:</p>
 <p>Animações e SplashScreen</p>
