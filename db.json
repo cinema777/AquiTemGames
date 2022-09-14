@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "texto": "Horizon West",
+      "imagem": 7,
+      "categoria": "PS5",
+      "preco": "200",
+      "id": 1
+    },
+    {
+      "texto": "Horizon West",
+      "imagem": 7,
+      "categoria": "PS5",
+      "preco": 200,
+      "id": 3
+    },
+    {
+      "texto": "Elden Ring",
+      "imagem": 5,
+      "categoria": "PS4",
+      "preco": 150,
+      "id": 4
+    },
+    {
+      "texto": "Elden Ring",
+      "imagem": 5,
+      "categoria": "PS4",
+      "preco": 150,
+      "id": 5
+    }
+  ]
+}
